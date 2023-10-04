@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 1,
+    "title": "Computer Programming",
+    "img": "https://i.ibb.co/gvW853P/book-1.png",
+    "author": "Tamim Sahrer Subin",
+    "genre": "Programming",
+    "publication_date": "12 Jan 2017",
+    "reviews": []
+  },
+  {
+    "_id": 2,
+    "title": "Pyhton deye Programming sekha",
+    "img": "https://i.ibb.co/K59rHbf/book-2.jpg",
+    "author": "Tamim Sahrer Subin",
+    "genre": "Programming",
+    "publication_date": "22 Jun 2019",
+    "reviews": []
+  },
+  {
+    "_id": 3,
+    "title": "Computer Programming - part_1",
+    "img": "https://i.ibb.co/GF0NFxC/book-3.png",
+    "author": "Tamim Sahrer Subin",
+    "genre": "Programming",
+    "publication_date": "22 Jan 2018",
+    "reviews": []
+  },
+  {
+    "_id": 4,
+    "title": "Quran theke neya jiboner padth",
+    "img": "https://i.ibb.co/sKJMYNg/book-4.png",
+    "author": "Arif Azad",
+    "genre": "Islamic",
+    "publication_date": "2 Jan 2023",
+    "reviews": []
+  },
+  {
+    "_id": 5,
+    "title": "Business Blue Print",
+    "img": "https://i.ibb.co/QY8bRYs/book-5.jpg",
+    "author": "Coach Kanchon",
+    "genre": "Business",
+    "publication_date": "5 Jan 2020",
+    "reviews": []
+  },
+  {
+    "_id": 6,
+    "title": "Leadership Inteligence",
+    "img": "https://i.ibb.co/WDCrm7B/book-6.png",
+    "author": "Tanvir Sahrer Remon",
+    "genre": "Self",
+    "publication_date": "10 Jan 2019",
+    "reviews": []
+  },
+  {
+    "_id": 7,
+    "title": "Dopamin Detox",
+    "img": "https://i.ibb.co/b5NRdBm/book-7.jpg",
+    "author": "Thebo Moris",
+    "genre": "Self",
+    "publication_date": "17 Jan 2015",
+    "reviews": []
+  },
+  {
+    "_id": 8,
+    "title": "Powerful Focus",
+    "img": "https://i.ibb.co/YWjGptH/book-8.jpg",
+    "author": "Thebo Moris",
+    "genre": "Self",
+    "publication_date": "227 Jan 2019",
+    "reviews": []
+  },
+  {
+    "_id": 9,
+    "title": "The Hart truth about soft skills",
+    "img": "https://i.ibb.co/yXxVVfY/book-9.jpg",
+    "author": "Pegi Clouse",
+    "genre": "Self",
+    "publication_date": "27 Jan 2019",
+    "reviews": []
+  },
+  {
+    "_id": 10,
+    "title": "Time Management",
+    "img": "https://i.ibb.co/t3yH9Dk/book-10.jpg",
+    "author": "Bran Tesi",
+    "genre": "Self",
+    "publication_date": "2 Jan 2021",
+    "reviews": []
+  }
+]
