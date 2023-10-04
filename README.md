@@ -1,6 +1,6 @@
 ### Book Catalog system App
 
-- Frontend Live Link: https://book-catalog-app-nine.vercel.app/
+- Frontend Live Link: https://assignment-redux-frontend.vercel.app/
 
 - Frontend Github Repository Link: https://github.com/imranhossain6554/assignment-redux-frontend
 
