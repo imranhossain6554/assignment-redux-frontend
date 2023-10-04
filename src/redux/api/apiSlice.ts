@@ -7,7 +7,7 @@ export const api = createApi({
   reducerPath: "books",
   tagTypes: ["books", "reviews"],
   baseQuery: fetchBaseQuery({
-    baseUrl: "https://book-catalog-system-backend-production.up.railway.app",
+    baseUrl: "https://assignment-book-backend.vercel.app/",
   }),
   endpoints: (builder) => ({
     getBooks: builder.query({

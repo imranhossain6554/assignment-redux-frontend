@@ -2,11 +2,11 @@
 
 - Frontend Live Link: https://book-catalog-app-nine.vercel.app/
 
-- Frontend Github Repository Link: https://github.com/emonmahdi/book-catalog-system-frontend
+- Frontend Github Repository Link: https://github.com/imranhossain6554/assignment-redux-frontend
 
-- Backend Github Repository Link: https://github.com/emonmahdi/book-catalog-system-backend
+- Backend Github Repository Link: https://github.com/imranhossain6554/assignment-book-backend
 
-- Backend Code Live Link: https://book-catalog-system-backend-production.up.railway.app/
+- Backend Code Live Link: https://assignment-book-backend.vercel.app/
 
 ### Features the app:
 
